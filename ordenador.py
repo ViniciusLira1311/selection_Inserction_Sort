@@ -24,6 +24,3 @@ class Sorter:
             valores[i], valores[k] = valores[k], valores[i]
         
         return valores
-                
-        
-        return [1]
